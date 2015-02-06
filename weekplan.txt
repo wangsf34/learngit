@@ -1,0 +1,6 @@
+week plan:
+1.maven
+2.git
+3.redmind
+4.OA
+
