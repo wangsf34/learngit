@@ -1,9 +1,8 @@
 date:20150206
-user:wangsf
+user:wangsf34
 content:git learn
 
-addr:shanghai pudong jinqiao
+addr:shanghai
 
-tel:15601605867
+tel:15688888888
 
-email:wangsf1@allinpay.com
